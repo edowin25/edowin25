@@ -8,19 +8,25 @@ A learning designer, L&D professional that is passionate about data analytics an
 ## Projects
 Click on the banners of each project to find out more!
 
-**1. Using NLP, Topic Modelling, Sentiment Analysis, Classification, Dashboarding to gain insights to improve Ibis Budget (SG) Business**
+### 1. Using NLP, Topic Modelling, Sentiment Analysis, Classification, Dashboarding to gain insights to improve Ibis Budget (SG) Business
 
 [![image](https://user-images.githubusercontent.com/50400038/172331028-ec38496e-9386-4233-beea-febaaa4dbbc4.png)](https://github.com/edowin25/Capstone_Proj-end_to_end_ml/tree/main)
 
-**2. Dashboarding on Tableau to analyse factors that affect staff performance** 
+### 2. Dashboarding on Tableau to analyse factors that affect staff performance
 
 [![image](https://user-images.githubusercontent.com/50400038/172328870-05779e23-f091-4247-8cab-56065528cad5.png)](https://public.tableau.com/app/profile/edwin.wan3715/viz/HR_Pract/Story1)
 
-**3. Automating Classification of Topics for training courses using Machine Learning**
+### 3. Automating Classification of Topics for training courses using Machine Learning
 
 [![crs_topic_class_banner](https://user-images.githubusercontent.com/50400038/172334160-9bb6d7d4-5500-4929-9042-57d66de6c34c.png)](https://github.com/edowin25/course_topics_classification)
 
-**4. Webscrapping Stock Fundamentals from Morningstar with Front-end Streamlit for non-tech users**
+### 4. Webscrapping Stock Fundamentals from Morningstar with Front-end Streamlit for non-tech users
+
+
+### 5. Analysis on the impact of the 3pt shot on the NBA from 2011 to 2021 season
+
+
+### 6. Predicting future stock prices with Deep Learning and Ensemble models 
 
 
 
@@ -32,8 +38,8 @@ Click on the banners of each project to find out more!
 
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=abdrauf26&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdrauf26&theme=default)](https://git.io/streak-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=edowin25&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=edowin25&theme=default)](https://git.io/streak-stats)
 
 
 <!---
