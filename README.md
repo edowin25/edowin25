@@ -35,7 +35,7 @@ Click on the banners of each project to find out more!
 
 ## Social 📧 
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat)](https://www.linkedin.com/in/edwinwan/) [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)](https://github.com/edowin25) [![Profile views](https://gpvc.arturio.dev/edowin25) 
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat)](https://www.linkedin.com/in/edwinwan/) [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)](https://github.com/edowin25) [![Profile views](https://gpvc.arturio.dev/edowin25)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=edowin25&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=edowin25&theme=default)](https://git.io/streak-stats)
