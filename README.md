@@ -22,21 +22,20 @@ Click on the banners of each project to find out more!
 
 ### 4. Webscrapping Stock Fundamentals from Morningstar with Front-end Streamlit for non-tech users
 
+[![banner_webscrap_stocks](https://user-images.githubusercontent.com/50400038/172342209-6cf77ff9-1c0e-47d1-8db1-9229888654cc.png)](https://github.com/edowin25/webscrap_stock_fundamentals)
 
 ### 5. Analysis on the impact of the 3pt shot on the NBA from 2011 to 2021 season
 
+![image](https://user-images.githubusercontent.com/50400038/172342815-fc40dc15-73e0-4843-aa6a-e3ebe9c71561.png)(https://github.com/edowin25/nba3pt_analysis)
 
 ### 6. Predicting future stock prices with Deep Learning and Ensemble models 
 
+![image](https://user-images.githubusercontent.com/50400038/172342973-b66a8f55-3596-40d6-ab38-a38463ddade2.png)(https://github.com/edowin25/stockprediction)
 
 
 ## Social 📧 
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat)](https://www.linkedin.com/in/edwinwan/) [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)](https://github.com/edowin25) [![Profile views](https://gpvc.arturio.dev/edowin25) 
-
-
-
-
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=edowin25&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=edowin25&theme=default)](https://git.io/streak-stats)
