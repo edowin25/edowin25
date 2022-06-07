@@ -26,11 +26,11 @@ Click on the banners of each project to find out more!
 
 ### 5. Analysis on the impact of the 3pt shot on the NBA from 2011 to 2021 season
 
-![image](https://user-images.githubusercontent.com/50400038/172342815-fc40dc15-73e0-4843-aa6a-e3ebe9c71561.png)(https://github.com/edowin25/nba3pt_analysis)
+[![image](https://user-images.githubusercontent.com/50400038/172342815-fc40dc15-73e0-4843-aa6a-e3ebe9c71561.png)](https://github.com/edowin25/nba3pt_analysis)
 
 ### 6. Predicting future stock prices with Deep Learning and Ensemble models 
 
-![image](https://user-images.githubusercontent.com/50400038/172342973-b66a8f55-3596-40d6-ab38-a38463ddade2.png)(https://github.com/edowin25/stockprediction)
+[![image](https://user-images.githubusercontent.com/50400038/172342973-b66a8f55-3596-40d6-ab38-a38463ddade2.png)](https://github.com/edowin25/stockprediction)
 
 
 ## Social 📧 
