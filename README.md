@@ -1,31 +1,32 @@
 ![EDWIN WAN](https://user-images.githubusercontent.com/50400038/172321181-dd206fff-e748-47ea-93f4-9f45060b673b.png)
-[![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)](https://www.python.org/) [![pandas Badge](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=fff&style=flat)](https://pandas.pydata.org/) [![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat)](https://www.mysql.com/) [![Tableau Badge](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=fff&style=flat)]([https://public.tableau.com/app/profile/edwin.wan](https://public.tableau.com/app/profile/edwin.wan3715)) ![Power BI](https://img.shields.io/static/v1?style=for-the-badge&message=Power+BI&color=222222&logo=Power+BI&logoColor=F2C811&label=)
+![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat) ![pandas Badge](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=fff&style=flat) ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat) [![Tableau Badge](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=fff&style=flat)](https://public.tableau.com/app/profile/edwin.wan3715) [![Power BI](https://img.shields.io/badge/Power+BI??logo=power+bi&logoColor=fff&style=flat)]
 
-## About 
+## About Me
 
-I am a consultant for Future Skills at Sustainable Living Lab (SL2). Every new day has been such a fulfilling learning journey and I am excited for what comes ahead. I enjoy the simple things in life such as spending quality time with my family and enjoying good food from different cuisines is a bond I share with my lovely wife of 13 years. I have also been reading up on real estate, financial literacy, history and football. I am always up for a lively discussion on any of those topics! Having undergone the Tech Immersion and Placement Programme for Applied Data Science with Machine Learning, the skills that I am developing continually include Python, Tableau, Pandas, Numpy, Plotly, Seaborn, Matplotlib and MYSQL.
+A learning designer, L&D professional that is passionate about data analytics and data science. Inspired by the large amount of insights that data can bring to us to help us make better decisions and design effective solutions. Started on the Data Analytics/Science Journey in Dec 2021 by taking Data Science Immersive Bootcamp that lasted 6 months and continuously learning during and after the bootcamp on new skills, knowledge in this area. Looking to become a specialist in handling data to obtain unique insights and design data enabled solutions.
 
 ## Projects
+Click on the banners of each project to find out more!
 
-[![image](https://user-images.githubusercontent.com/96287600/171625874-85257b45-f158-4433-a40e-05996ba0c211.png)](https://github.com/abdrauf26/champions_league_repo)
+**1. Using NLP, Topic Modelling, Sentiment Analysis, Classification, Dashboarding to gain insights to improve Ibis Budget (SG) Business**
 
-[![image](https://user-images.githubusercontent.com/96287600/159918685-0d6984c9-4690-4cc8-ab62-1a11eb4bab95.png)](https://github.com/abdrauf26/abdul_rauf_repo)
+[![image](https://user-images.githubusercontent.com/50400038/172331028-ec38496e-9386-4233-beea-febaaa4dbbc4.png)](https://github.com/edowin25/Capstone_Proj-end_to_end_ml/tree/main)
 
-[![image](https://user-images.githubusercontent.com/96287600/167428747-62a64b60-fc42-40a0-a211-fb19fac4157d.png)](https://github.com/abdrauf26/ml_repo)
+**2. Dashboarding on Tableau to analyse factors that affect staff performance** 
 
-[![image](https://user-images.githubusercontent.com/96287600/161565008-39ba33fc-8194-48a5-a288-751fc89358d8.png)](https://public.tableau.com/app/profile/mohamed.abdul.rauf/viz/HowSengkanghasthenumberofhighestHDBunitssoldinSingaporeusingTableau_/HowSengkanghasthenumberofhighestHDBunitssoldinSingaporeusingTableau_)
+[![image](https://user-images.githubusercontent.com/50400038/172328870-05779e23-f091-4247-8cab-56065528cad5.png)](https://public.tableau.com/app/profile/edwin.wan3715/viz/HR_Pract/Story1)
 
-[![image](https://user-images.githubusercontent.com/96287600/163551843-d4fb392b-713f-43fc-acba-0cd678a04129.png)](https://github.com/abdrauf26/web_scraping_repo)
+**3. Automating Classification of Topics for training courses using Machine Learning**
 
-[![image](https://user-images.githubusercontent.com/96287600/163976546-c012a39b-1734-4e36-9696-6fe7c8a3aad7.png)](https://github.com/abdrauf26/my_sql_repo)
+[![crs_topic_class_banner](https://user-images.githubusercontent.com/50400038/172334160-9bb6d7d4-5500-4929-9042-57d66de6c34c.png)](https://github.com/edowin25/course_topics_classification)
 
-
+**4. Webscrapping Stock Fundamentals from Morningstar with Front-end Streamlit for non-tech users**
 
 
 
 ## Social 📧 
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat)](https://www.linkedin.com/in/abdrauf26/) [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)](https://github.com/abdrauf26) [![Profile views](https://gpvc.arturio.dev/abdrauf26) 
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat)](https://www.linkedin.com/in/edwinwan/) [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)](https://github.com/edowin25) [![Profile views](https://gpvc.arturio.dev/edowin25) 
 
 
 
